@@ -13,7 +13,7 @@ Implement an ALU that supports the following 8 operations:
 * Arithmetic shifting right of a N-bit number that will discard the least significant bit.
 The output of the ALU must be a (N+1)-bit number, where the additional bit is the most significant one.
 
-<selection inputs>          <operation>
+<<<selection inputs>>>>          <<<operation>>>
 
 s0     s1     s2              output
 
